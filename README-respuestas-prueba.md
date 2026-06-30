@@ -3,7 +3,8 @@ Respuestas Prueba
 ¿Qué mecanismos de seguridad incluirías en la aplicación para
 garantizar la protección del acceso a los datos?
 
-Incluiria mecanimos de sesiones por usuario, para que solo teniendo un usuario autorizado pudiera ingresar a la data
+Incluiria mecanimos de sesiones por usuario y autenticación por tokens, para que solo teniendo un usuario autorizado pudiera ingresar a la data y una 
+vez el token se termine te saque y debas volver a ingresar
 
 ¿Qué estrategia de escalabilidad recomendarías para la aplicación
 considerando que el crecimiento proyectado será de 1,000,000 de clientes
